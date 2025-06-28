@@ -1,4 +1,4 @@
-# Rooted & Rising – Immutable Trust Engine Architecture
+# 📍Rooted & Rising – Immutable Trust Engine Architecture
 
 [![Architecture Diagram](Rooted_Rising_Architecture.svg)](https://www.mermaidchart.com/app/projects/52f96f5a-3aac-4812-90c8-954dd2c42e7c/diagrams/cbe5c900-dc81-4ed2-a46f-41e54f28b622/version/v0.1/edit)
 
