@@ -104,6 +104,6 @@ flowchart TD
 
 ## 📝 License
 
-MIT — feel free to fork, remix, and cite with a link back.
+Not MIT — Please do not fork, remix, or cite with a link back.
 
 **Maintainer:** Styner Stiner · [stynerdev@gmail.com](mailto:stynerdev@gmail.com)
